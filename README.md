@@ -1,5 +1,5 @@
 # Undead Chase
-A 2D game where you must survive an endless wave of zombies for as long as possible by dodging and collecting healing power-ups. Watch your health bar, avoid the zombies, and stay alive. There's nowhere to run.
+A 2D game where you must survive an endless wave of zombies for as long as possible by dodging and collecting healing power-ups. Watch your health bar, avoid the zombies, and stay alive. There's nowhere to hide.
 
 ## Table of Contents
 1. [How to Play](#how-to-play)
